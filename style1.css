@@ -833,6 +833,12 @@ footer span a:hover{
         width: 100%;
         margin-bottom: 35px;
     }
+
+    
+    .about .about-content .carousel .card{
+        width: 50%;
+        margin-bottom: 20px;
+    }
 }
 @media (max-width: 690px) {
     .max-width{
@@ -858,6 +864,10 @@ footer span a:hover{
     }
     .timeline .date::after{
         left: -7.9rem;
+    }
+    .about .about-content .carousel .card{
+        width: 50%;
+        margin-bottom: 20px;
     }
 }
 @media (max-width: 500px) {
